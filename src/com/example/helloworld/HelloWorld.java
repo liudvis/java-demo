@@ -3,6 +3,6 @@ package com.example.helloworld;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello world");
-        System.out.println("it's me, wombat!");
+        System.out.println("bybs");
     }
 }
